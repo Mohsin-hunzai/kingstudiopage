@@ -51,7 +51,7 @@ p {
   width: 91%;
 }
 .header {
-  background-image: url("/image/21.jpg");
+  background-image: url("../image/21.jpg");
   background-attachment: fixed;
   color: white;
   height: 56rem;
@@ -223,7 +223,7 @@ hr {
   padding: 20px 0px;
 }
 #demos .theme-area {
-  background-image: url("/image/21.jpg");
+  background-image: url("../image/21.jpg");
   background-size: 100% 100%;
   background-attachment: fixed;
   height: 90px;
@@ -258,44 +258,44 @@ hr {
   padding: 15px 0px;
 }
 .demos-header-area {
-  background-image: url("/image/21.jpg");
+  background-image: url("../image/21.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   height: 16rem;
 }
 
 .demos-two {
-  background-image: url("/image/demos/05.jpg");
+  background-image: url("../image/demos/05.jpg");
 }
 .demos-three {
-  background-image: url("/image/demos/12.jpg");
+  background-image: url("../image/demos/12.jpg");
 }
 .demos-r2-one {
-  background-image: url("/image/demos/16.jpg");
+  background-image: url("../image/demos/16.jpg");
 }
 .demos-r2-two {
-  background-image: url("/image/demos/creative-banner.jpg");
+  background-image: url("../image/demos/creative-banner.jpg");
 }
 .demos-r2-three {
-  background-image: url("/image/demos/16.jpg");
+  background-image: url("../image/demos/16.jpg");
 }
 .demos-r3-one {
-  background-image: url("/image/demos/mag4.jpg");
+  background-image: url("../image/demos/mag4.jpg");
 }
 .demos-r3-two {
-  background-image: url("/image/demos/mag10.jpg");
+  background-image: url("../image/demos/mag10.jpg");
 }
 .demos-r3-three {
-  background-image: url("/image/demos/mag4.jpg");
+  background-image: url("../image/demos/mag4.jpg");
 }
 .demos-r4-one {
-  background-image: url("/image/demos/13.jpg");
+  background-image: url("../image/demos/13.jpg");
 }
 .demos-r4-two {
-  background-image: url("/image/demos/mag10.jpg");
+  background-image: url("../image/demos/mag10.jpg");
 }
 .demos-r4-three {
-  background-image: url("/image/demos/05.jpg");
+  background-image: url("../image/demos/05.jpg");
 }
 .demos-overlap {
   position: relative;
